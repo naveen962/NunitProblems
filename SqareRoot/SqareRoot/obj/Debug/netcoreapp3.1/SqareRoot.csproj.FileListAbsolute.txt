@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\bin\Debug\netcoreapp3.1\SqareRoot.exe
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\bin\Debug\netcoreapp3.1\SqareRoot.deps.json
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\bin\Debug\netcoreapp3.1\SqareRoot.runtimeconfig.json
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\bin\Debug\netcoreapp3.1\SqareRoot.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\bin\Debug\netcoreapp3.1\SqareRoot.dll
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\bin\Debug\netcoreapp3.1\SqareRoot.pdb
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\obj\Debug\netcoreapp3.1\SqareRoot.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\obj\Debug\netcoreapp3.1\SqareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\obj\Debug\netcoreapp3.1\SqareRoot.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\obj\Debug\netcoreapp3.1\SqareRoot.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\obj\Debug\netcoreapp3.1\SqareRoot.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\obj\Debug\netcoreapp3.1\SqareRoot.dll
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\obj\Debug\netcoreapp3.1\SqareRoot.pdb
+C:\Users\INDIA\source\repos\SqareRoot\SqareRoot\obj\Debug\netcoreapp3.1\SqareRoot.genruntimeconfig.cache
