@@ -1,0 +1,13 @@
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\bin\Debug\netcoreapp3.1\MonthlyPayment.exe
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\bin\Debug\netcoreapp3.1\MonthlyPayment.deps.json
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\bin\Debug\netcoreapp3.1\MonthlyPayment.runtimeconfig.json
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\bin\Debug\netcoreapp3.1\MonthlyPayment.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\bin\Debug\netcoreapp3.1\MonthlyPayment.dll
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\bin\Debug\netcoreapp3.1\MonthlyPayment.pdb
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.dll
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.pdb
+C:\Users\INDIA\source\repos\MonthlyPayment\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.genruntimeconfig.cache
