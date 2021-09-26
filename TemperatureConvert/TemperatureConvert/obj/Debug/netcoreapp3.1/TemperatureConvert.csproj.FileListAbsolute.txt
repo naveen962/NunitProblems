@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\bin\Debug\netcoreapp3.1\TemperatureConvert.exe
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\bin\Debug\netcoreapp3.1\TemperatureConvert.deps.json
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\bin\Debug\netcoreapp3.1\TemperatureConvert.runtimeconfig.json
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\bin\Debug\netcoreapp3.1\TemperatureConvert.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\bin\Debug\netcoreapp3.1\TemperatureConvert.dll
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\bin\Debug\netcoreapp3.1\TemperatureConvert.pdb
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\obj\Debug\netcoreapp3.1\TemperatureConvert.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\obj\Debug\netcoreapp3.1\TemperatureConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\obj\Debug\netcoreapp3.1\TemperatureConvert.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\obj\Debug\netcoreapp3.1\TemperatureConvert.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\obj\Debug\netcoreapp3.1\TemperatureConvert.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\obj\Debug\netcoreapp3.1\TemperatureConvert.dll
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\obj\Debug\netcoreapp3.1\TemperatureConvert.pdb
+C:\Users\INDIA\source\repos\TemperatureConvert\TemperatureConvert\obj\Debug\netcoreapp3.1\TemperatureConvert.genruntimeconfig.cache
